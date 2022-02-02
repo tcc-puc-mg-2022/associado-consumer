@@ -11,4 +11,4 @@ rabbitmq:
     produce: "associado.cart.out"
 
 server:
-  port: 8081
+  port: 8083
